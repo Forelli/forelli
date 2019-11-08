@@ -469,6 +469,10 @@ header h1 {
   font-weight: bold;
 }
 
+.yellow {
+  color: rgba(218, 189, 30, 0.945);
+}
+
 .stronglined {
   color: #a9c056;
 }
@@ -491,4 +495,8 @@ header h1 {
 
 .imgcent {
   text-align: center;
+}
+
+.imgmin {
+  width: 20%;
 }
